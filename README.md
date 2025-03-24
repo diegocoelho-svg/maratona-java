@@ -8,7 +8,7 @@ Complemento para aplicar o conhecimento: [Dev Magro | Carrilho](https://www.yout
 O curso cobre todo o ecossistema Java em profundidade, com ênfase em boas práticas e aplicações reais.
 
 
-### ➡️ Fundamentos Essenciais
+### ➡️ Fundamentos Essenciais (Até agora)
 - Tipos primitivos e Wrappers
 - Operadores (Aritméticos, Relacionais, Lógicos, Atrbuição)
 - Manipulação de Strings
