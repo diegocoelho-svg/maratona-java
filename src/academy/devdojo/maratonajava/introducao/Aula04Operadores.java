@@ -60,7 +60,5 @@ public class Aula04Operadores {
         int contador2 = 0;
         System.out.println(contador2++); // Ele executa o número, depois acrescenta
         System.out.println(contador2);
-
-
     }
 }
