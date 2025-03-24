@@ -49,7 +49,7 @@ public class Aula04Operadores {
         bonus /= 2; // 1800
         System.out.println(bonus);
 
-        //
+        // Incrementador
         int contador = 0;
         contador += 1; // contador = contador + 1;
         contador++;
