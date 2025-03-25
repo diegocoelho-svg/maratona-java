@@ -10,7 +10,7 @@ O curso cobre todo o ecossistema Java em profundidade, com ênfase em boas prát
 
 ### ➡️ Fundamentos Essenciais (Até agora)
 - Tipos primitivos e Wrappers
-- Operadores (Aritméticos, Relacionais, Lógicos, Atrbuição)
+- Operadores (Aritméticos, Relacionais, Lógicos, Atribuição) e Controle de Fluxo
 - Manipulação de Strings
 
 ### 🔗 **Playlist do Curso**: [Assistir no YouTube](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
