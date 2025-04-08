@@ -9,10 +9,28 @@ O curso cobre todo o ecossistema Java em profundidade, com ênfase em boas prát
 
 
 ### ➡️ Fundamentos Essenciais (Até agora)
-- Tipos primitivos e Wrappers
-- Operadores (Aritméticos, Relacionais, Lógicos, Atribuição) e Controle de Fluxo
-- Manipulação de Strings
-- Laços de Repetição (while, do while, for)
+- **Tipos de dados**: Primitivos e Wrappers
+- **Operadores**:
+    - Aritméticos
+    - Relacionais
+    - Lógicos
+    - Atribuição
+- **Controle de Fluxo**:
+    - Estruturas condicionais (if-else, switch, operador ternário)
+    - Laços de repetição (while, do-while, for)
+- **Manipulação de Strings**
+- **Arrays**: Unidimensionais e Multidimensionais
+- **POO Básica**:
+    - Classes e Objetos
+    - Métodos
+    - Referências de Objetos
+
+### 🔼 Próximos Tópicos
+- Métodos avançados
+- Modificadores de acesso
+- Encapsulamento
+- Herança
+- Polimorfismo
 
 ### 🔗 **Playlist do Curso**: [Assistir no YouTube](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
 
